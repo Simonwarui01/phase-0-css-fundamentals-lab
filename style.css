@@ -3,3 +3,58 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.center-text{
+  text-align: center;
+}
+
+.links a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+#featured-property figcaption{
+  font-size: smaller;
+}
+
+#featured-property p{
+  width: 800px;
+  margin: auto;
+}
+
+.column1{
+
+  background-color: red;
+  float: left;
+  padding-left: 170px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+.column2{
+  
+  background-color: red;
+  float: left;
+  padding-left: 170px;
+  padding-right: 170px;
+  text-align: center;
+}
+
+.column3{
+  
+  background-color: red;
+  float: left;
+  padding-left: 170px;
+  padding-right: 170px;
+  text-align: center;
+}
+
+.column4{
+  
+  background-color: red;
+  float: left;
+  padding-left: 170px;
+  padding-right: 170px;
+  text-align: center;
+}
